@@ -23,6 +23,13 @@ const Projects = () => {
       technologies: ["Python", "Flask", "LSTM", "JavaScript"],
       link: "https://github.com/roshanrai1304/complementary-products-recommendation",
       color: "#000000"
+    },
+    {
+      title: "Image Manager",
+      description: "Image Manager is a web application that allows users to securely upload, store, and analyze images. The application features user authentication, integration with Amazon S3 for image storage, and AI-powered image analysis using ChatGPT.",
+      technologies: ["Python", "Flask", "Vite", "PostgreSQL", "GPT-4o"],
+      link: "https://magical-tapioca-8dbbea.netlify.app/",
+      color: "#3776AB"
     }
   ];
 
